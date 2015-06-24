@@ -37,7 +37,7 @@ public class J04_Poly_ex {
 //			blog - 인덱스 번호 1번
 //			write - 인덱스 번호 2번
 			
-//			=> String의 동일성을 확인할 때 문자열1.equls(문자열2)를 사용.
+//			=> String의 동일성을 확인할 때 문자열1.equals(문자열2)를 사용.
 //			=> 문자열1 == 문자열2 (X)
 			
 			if(arrays[1].equals("blog")){
